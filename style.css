@@ -1,0 +1,22 @@
+
+body {
+    background: #d8cfa4;
+}
+
+.main-quote {
+    letter-spacing: 2px;
+    font-size: 25px;
+    line-height: 50px;
+    margin-top: 15px;
+}
+
+.fa-quote-left {
+    font-size: 30px;
+    color: rgb(182, 159, 159);
+}
+
+.btn{
+    margin: auto;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
